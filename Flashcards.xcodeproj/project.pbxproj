@@ -24,6 +24,7 @@
 		A14ECF1B27CAB23700F33D46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A14ECF1E27CAB23700F33D46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A14ECF2027CAB23700F33D46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A14ECF2627CABEDC00F33D46 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				A14ECF1B27CAB23700F33D46 /* Assets.xcassets */,
 				A14ECF1D27CAB23700F33D46 /* LaunchScreen.storyboard */,
 				A14ECF2027CAB23700F33D46 /* Info.plist */,
+				A14ECF2627CABEDC00F33D46 /* README.md */,
 			);
 			path = Flashcards;
 			sourceTree = "<group>";
